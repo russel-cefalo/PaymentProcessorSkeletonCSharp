@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{06006D19-073A-4BCC-9717-9C646627A36A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PaymentProcessor/Start.cs">
+    <Files>
+      <File FileName="PaymentProcessor/Instrument/Instrument.cs" Line="3" Column="38" />
+      <File FileName="PaymentProcessor/Instrument/InstrumentType.cs" Line="8" Column="15" />
+      <File FileName="PaymentProcessor/Instrument/DebitCard.cs" Line="9" Column="25" />
+      <File FileName="PaymentProcessor/Processor/PaymentProcessor.cs" Line="10" Column="48" />
+      <File FileName="PaymentProcessor/Start.cs" Line="11" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/russel/Development/dotnet/PaymentProcessor/PaymentProcessor/Main.cs" relfile="PaymentProcessor/Main.cs" line="10" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PaymentProcessor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
