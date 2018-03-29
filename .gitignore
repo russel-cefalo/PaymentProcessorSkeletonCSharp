@@ -1,2 +1,12 @@
 PaymentProcessor/bin/*
 PaymentProcessor/obj/*
+/.vs/PaymentProcessor/v15
+/ThirdParty/obj/Debug
+/packages
+/TestConsole/bin/Debug
+/TestConsole/obj/Debug
+/TestProject/obj/Debug
+/TestProject/Properties
+/ThirdParty/bin/Debug
+/ThirdParty/Properties
+/TestConsole/Properties
